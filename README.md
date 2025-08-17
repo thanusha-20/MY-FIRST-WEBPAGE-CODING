@@ -14,6 +14,7 @@
             padding:10px;
             background-color:white;
             box-shodow:2px;
+            }
                 
             </style>
               <div class="semi-container">
