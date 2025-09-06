@@ -5,7 +5,7 @@
         <body>
             <style>
             .sun{
-            background-color:;
+            background-color;
             border:solid;
             border-radius:10px;}
 
@@ -13,7 +13,7 @@
             border:solid;
             padding:10px;
             background-color:white;
-            box-shadow:2px;
+            box-shadow:2px;}
 
             .front{ 
              border:solid;
