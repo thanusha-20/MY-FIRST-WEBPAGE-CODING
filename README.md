@@ -22,6 +22,7 @@
                     <a href="website.html">
                           <h1> login</h1>  </a>
                      <h2>click on the above <i><u>link</u></i> to enter the site....</h2>
+                     <a href="code.html"></a>
                       </div>
         </body>
     </head>
