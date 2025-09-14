@@ -7,7 +7,10 @@
             .sun{
             background-color;
             border:solid;
-            border-radius:10px;}
+            border-radius:10px;
+            margin-left:10px;
+            color:yellow;
+            cursor:ppointer;}
 
             .semi-container{
             border:solid;
